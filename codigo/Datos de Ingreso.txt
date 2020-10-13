@@ -1,0 +1,5 @@
+Datos para poder ingresar al sistema:
+
+
+Usuario: admin
+Contraseña: admin
